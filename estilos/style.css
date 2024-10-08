@@ -3,10 +3,10 @@
     font-size: 16px;
 }
 body {
-    background-color: antiquewhite, salmon;
+    background-color: bisque;
 }
 main {
-    background-color: bisque;
+    background-color: antiquewhite, salmon;
     width: 500px;
     margin: auto;
     padding: 10px;
